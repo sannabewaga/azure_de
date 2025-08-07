@@ -15,6 +15,8 @@ Key Components:
 - **MongoDB** for external data enrichment
 - **Synapse Analytics** for querying and reporting
 
+<img width="1449" height="776" alt="image" src="https://github.com/user-attachments/assets/55d181b1-92d7-4a79-982e-02cc09acab64" />
+
 ---
 
 ## 🚀 Implementation Highlights
